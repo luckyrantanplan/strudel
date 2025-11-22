@@ -1,3 +1,10 @@
+// Title: Bach Prelude Book I No. 1 (JS/Strudel transcription)
+// Source: J.S. Bach, WTC Book I, Prelude in C major BWV 846
+ 
+// Description: Strudel pattern representation of the prelude,
+//              using chained scale transformations and pianoroll rendering.
+
+
 cat(
 "[0, ~ 2@7, ~ [4 7 9] @3*2]!2".scale('C4 major'), //1  
 "[0, ~ 1@7, ~ [5 8 10]@3*2]!2".scale('C4 major'), // 2
